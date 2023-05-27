@@ -3,7 +3,7 @@ const Movie = (props) => {
     const {
         Title: title,
         Year: year,
-        imdbID: id,
+        imdbID: id,  
         Type: type,
         Poster: poster,
     } = props;
